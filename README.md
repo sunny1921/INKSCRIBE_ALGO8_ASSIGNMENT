@@ -1,6 +1,6 @@
 # BlogApp
 
-### [Live App](https://drblog.herokuapp.com/)
+
 
 ## Sample Credential:
 
@@ -11,7 +11,6 @@ Use these credentials to use the application.
 
 A nodejs blog application where user can READ, CREATE, EDIT and DELETE blog posts. Other features include login, logout, unauthorized page restructions.
 
-![enter image description here](https://raw.githubusercontent.com/DineshRout779/BlogApp/main/public/imgs/preview.png)
 
 ## Technologies Used
 
@@ -35,3 +34,5 @@ A blog web application made with use of the following technologies,
 ## Upcoming features
 
 - Like/unlike post
+
+- documentation : https://storm-shame-54e.notion.site/Documentation-c67dd84d8ce14c5faeb1977ab9305248?pvs=4
